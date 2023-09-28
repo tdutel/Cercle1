@@ -15,11 +15,11 @@ Cercle1 contain 2 projects : ft_printf and get_next_line. Both of this project i
 
 ## ft_printf <a name="ftprintf"></a>
 
-This project is pretty straightforward, we have to recode printf. we will learn what is and how to implement variadic functions. We will reuse this function in our future projects. View [subject](https://github.com/tdutel/Cercle1/blob/main/ft_printf/en.subject.pdf)
+This project is pretty straightforward, we have to recode printf. we will learn what is and how to implement variadic functions. We will reuse this function in our future projects. View [ft_printf subject](https://github.com/tdutel/Cercle1/blob/main/ft_printf/en.subject.pdf)
 
 ## get_next_line <a name="gnl"></a>
 
-May it be a file, stdin, or even later a network connection, we will always need a way to read content line by line. It's time to start working on this function, which will be essential for our future projects. View [subject] (https://github.com/tdutel/Cercle1/blob/main/get_next_line/en.subject.pdf)
+May it be a file, stdin, or even later a network connection, we will always need a way to read content line by line. It's time to start working on this function, which will be essential for our future projects. View [get_next_line subject](https://github.com/tdutel/Cercle1/blob/main/get_next_line/en.subject.pdf)
 
 ## Usage <a name="usage"></a>
 
