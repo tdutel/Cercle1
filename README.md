@@ -19,25 +19,7 @@ This project is pretty straightforward, we have to recode printf. we will learn 
 
 ## get_next_line <a name="gnl"></a>
 
-May it be a file, stdin, or even later a network connection, we will always need a way to read content line by line. It's time to start working on this function, which will be essential for our future projects. View [subject] ()
-
-##### All functions sorted below :
-| Check_fct | Mem_fct | Print_fct | Str_fct | Linked_list_fct |
-| -------- | -------- | -------- | -------- | -------- |
-|  ft_isalnum  |  ft_bzero  |  ft_atoi  |  ft_split  |  ft_lstadd_back_bonus  |
-|  ft_isalpha  |  ft_calloc  |  ft_itoa  | ft_strchr  |  ft_lstadd_front_bonus  |
-|  ft_isascii  |  ft_memchr  |  ft_putchar_f  |  ft_strdup  |  ft_lstclear_bonus  |
-|  ft_isdigit  |  ft_memcmp  |  ft_putendl_fd  |  ft_striteri  |  ft_lstdelone_bonus  |
-|  ft_isprint  |  ft_memcpy  |  ft_putnbr_fd  |  ft_strjoin  |  ft_lstiter_bonus  |
-|  ft_isprint  |  ft_memmove  |  ft_putstr_fd  |  ft_strlcat  |  ft_lstlast_bonus  |
-|  |  ft_memset  |  ft_tolower  |  ft_strlcpy  |  ft_lstmap_bonus  |
-|  |  |  ft_toupper   |  ft_strlen  | ft_lstnew_bonus  |
-|  |  |  |  ft_strmapi  |  ft_lstsize_bonus  |  fprime  |
-|  |  |  |  ft_strncmp  |
-|  |  |  |  ft_strnstr  |
-|  |  |  |  ft_strrchr  |
-|  |  |  |  ft_strtrim  |
-|  |  |  |  ft_substr  |
+May it be a file, stdin, or even later a network connection, we will always need a way to read content line by line. It's time to start working on this function, which will be essential for our future projects. View [subject] (https://github.com/tdutel/Cercle1/blob/main/get_next_line/en.subject.pdf)
 
 ## Usage <a name="usage"></a>
 
