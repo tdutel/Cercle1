@@ -11,18 +11,15 @@ get_next_line | ft_printf
 
 ## Introduction <a name="introduction"></a>
 
-Cercle1 contain 2 projects : ft_printf and get_next_line. Both of this project is individual. View [subject](https://github.com/tdutel/Cercle0/blob/main/libft_subject.pdf)
+Cercle1 contain 2 projects : ft_printf and get_next_line. Both of this project is individual.
 
 ## ft_printf <a name="ftprintf"></a>
 
-##### Functions are divided into 5 parts :
-1. Check functions : for all functions that check the character.
-2. Mem functions : for all memory-related functions.
-3. Print functions : for all functions that write to a file descriptor (+ ft_atoi and ft_itoa)
-4. Str functions : for all string-related functions (+ ft_split)
-5. Linked list functions : for all functions relating to linked lists
+This project is pretty straightforward, we have to recode printf. we will learn what is and how to implement variadic functions. We will reuse this function in our future projects. View [subject](https://github.com/tdutel/Cercle1/blob/main/ft_printf/en.subject.pdf)
 
 ## get_next_line <a name="gnl"></a>
+
+May it be a file, stdin, or even later a network connection, we will always need a way to read content line by line. It's time to start working on this function, which will be essential for our future projects. View [subject] ()
 
 ##### All functions sorted below :
 | Check_fct | Mem_fct | Print_fct | Str_fct | Linked_list_fct |
