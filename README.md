@@ -34,7 +34,7 @@ Born2beRoot cannot be shown in this repo because it's a virutal machine project.
 git clone https://github.com/tdutel/Cercle1.git
 cd Cercle1/ft_printf
 ```
-Theses functions will be added into libft.a from [Libft project](https://github.com/tdutel/Cercle0). It is not really usefull to copy this repo. It rather here to show how it works instead of usage.
+Theses functions will be added into libft.a from [Libft project](https://github.com/tdutel/Cercle0). There's really no point in copying this repo. It's more about showing how it works than using it directly.
 
 > #### Disclaimer
 > This project is a part of the 42-Cursus curriculum and is intended for educational purposes. If you are a current student of 42, we strongly advise you not to copy this project or submit it as your own work, as it goes against the school's academic integrity policy.
