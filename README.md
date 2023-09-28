@@ -2,7 +2,7 @@
 # Cercle1
 get_next_line | ft_printf | Born2beRoot
 
-## Sommaire
+## Summary
 
 - [Introduction](#introduction)
 - [ft_printf](#ftprintf)
