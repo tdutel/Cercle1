@@ -32,7 +32,6 @@ Born2beRoot cannot be shown in this repo because it's a virutal machine project.
 2. tap in terminal :
 ```
 git clone https://github.com/tdutel/Cercle1.git
-cd Cercle1/ft_printf
 ```
 Theses functions will be added into libft.a from [Libft project](https://github.com/tdutel/Cercle0). There's really no point in copying this repo. It's more about showing how it works than using it directly.
 
