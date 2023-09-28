@@ -7,41 +7,23 @@ get_next_line | ft_printf
 - [Introduction](#introduction)
 - [ft_printf](#ftprintf)
 - [get_next_line](#gnl)
+- [Born2beRoot](#b2b)
 - [Usage](#usage)
 
 ## Introduction <a name="introduction"></a>
 
-Cercle1 contain 2 projects : ft_printf and get_next_line. Both of this project is individual. View [subject](https://github.com/tdutel/Cercle0/blob/main/libft_subject.pdf)
+Cercle1 contain 3 projects : ft_printf get_next_line and Born2beRoot. Both of this project is individual.
 
 ## ft_printf <a name="ftprintf"></a>
 
-##### Functions are divided into 5 parts :
-1. Check functions : for all functions that check the character.
-2. Mem functions : for all memory-related functions.
-3. Print functions : for all functions that write to a file descriptor (+ ft_atoi and ft_itoa)
-4. Str functions : for all string-related functions (+ ft_split)
-5. Linked list functions : for all functions relating to linked lists
+This project is pretty straightforward, we have to recode printf. we will learn what is and how to implement variadic functions. We will reuse this function in our future projects. View [ft_printf subject](https://github.com/tdutel/Cercle1/blob/main/ft_printf/en.subject.pdf)
 
 ## get_next_line <a name="gnl"></a>
 
-##### All functions sorted below :
-| Check_fct | Mem_fct | Print_fct | Str_fct | Linked_list_fct |
-| -------- | -------- | -------- | -------- | -------- |
-|  ft_isalnum  |  ft_bzero  |  ft_atoi  |  ft_split  |  ft_lstadd_back_bonus  |
-|  ft_isalpha  |  ft_calloc  |  ft_itoa  | ft_strchr  |  ft_lstadd_front_bonus  |
-|  ft_isascii  |  ft_memchr  |  ft_putchar_f  |  ft_strdup  |  ft_lstclear_bonus  |
-|  ft_isdigit  |  ft_memcmp  |  ft_putendl_fd  |  ft_striteri  |  ft_lstdelone_bonus  |
-|  ft_isprint  |  ft_memcpy  |  ft_putnbr_fd  |  ft_strjoin  |  ft_lstiter_bonus  |
-|  ft_isprint  |  ft_memmove  |  ft_putstr_fd  |  ft_strlcat  |  ft_lstlast_bonus  |
-|  |  ft_memset  |  ft_tolower  |  ft_strlcpy  |  ft_lstmap_bonus  |
-|  |  |  ft_toupper   |  ft_strlen  | ft_lstnew_bonus  |
-|  |  |  |  ft_strmapi  |  ft_lstsize_bonus  |  fprime  |
-|  |  |  |  ft_strncmp  |
-|  |  |  |  ft_strnstr  |
-|  |  |  |  ft_strrchr  |
-|  |  |  |  ft_strtrim  |
-|  |  |  |  ft_substr  |
+May it be a file, stdin, or even later a network connection, we will always need a way to read content line by line. It's time to start working on this function, which will be essential for our future projects. View [get_next_line subject](https://github.com/tdutel/Cercle1/blob/main/get_next_line/en.subject.pdf)
 
+## Born2beRoot <a name="b2b"></a>
+Born2beRoot cannot be shown in this repo because it's a virutal machine project. You can also view [Born2beRoot subject]()
 ## Usage <a name="usage"></a>
 
 1. Copy link : https://github.com/tdutel/Cercle1.git
