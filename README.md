@@ -12,7 +12,7 @@ get_next_line | ft_printf | Born2beRoot
 
 ## Introduction <a name="introduction"></a>
 
-Cercle1 contain 3 projects : ft_printf, get_next_line and Born2beRoot. Both of this project is individual.
+Cercle1 contain 3 projects : ft_printf, get_next_line and Born2beRoot. All these projects are individual.
 
 ## ft_printf <a name="ftprintf"></a>
 
